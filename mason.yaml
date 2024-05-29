@@ -1,3 +1,5 @@
 bricks:
   cubit_page:
     path: bricks/cubit_page
+  get_page:
+    path: bricks/get_page
